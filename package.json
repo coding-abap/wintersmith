@@ -25,10 +25,10 @@
     "url": "https://github.com/jnordberg/wintersmith.git"
   },
   "dependencies": {
-    "marked": "~0.3.0",
+    "marked": "0.3.x",
     "coffee-script": "~1.6.3",
     "async": "~0.2.9",
-    "highlight.js": "~8.0.0",
+    "highlight.js": "diesire/highlight.js",
     "jade": "~1.1.5",
     "ncp": "~0.5.0",
     "rimraf": "~2.2.6",
